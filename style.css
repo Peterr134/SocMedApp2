@@ -1,0 +1,44 @@
+body{
+    background-color: #042940;
+}
+h1{
+    text-align: center;
+}
+hr{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.post{
+    text-align: center;
+    align-content: center;
+    padding-left:0;
+    background-color: #005C53;
+    color:#9FC131;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 50px;
+}
+.important{
+    color:#DBF227;
+}
+#todo{
+    text-align:center;
+    margin-right: 50px;
+    min-width: 300px;
+    min-height: 1000px;
+    float:right;
+    background-color: #005C53;
+    color:#9FC131;
+    max-width: 20%;
+}
+p{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+li{
+    text-align: left;
+}
+ul {
+    display: table;
+    margin: 0 auto;
+}
